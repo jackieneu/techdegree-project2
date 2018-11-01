@@ -2,7 +2,7 @@
 
 Soccer League Organizer | Written in Java
 
-Code files: /com/teamtreehouse/model
+Code files: /com/teamtreehouse/model  & LeagueManager.java
 
 ## Minimum Viable Product:
 Project Description: The Youth Soccer (Futbol) League is getting ready to set up their league and have asked for a quick console based app. They'd like to create teams, assign players to them fairly and then print out a roster for each team. Registration has closed, so no new players can be added to the master list of players. There is a class with a static method that is available to you named Players.load which will return you with a fixed array of all the registered players. Coaches will print out a roster once teams are built, so do not worry about saving (or serializing) the teams that the organizer will be building. The league has teams and teams have players. They’ve asked that we make sure that teams cannot have the same player added twice. If you use the proper collection for the team.players, you should be able to ensure uniqueness. Teams can have a maximum of 11 players each.
