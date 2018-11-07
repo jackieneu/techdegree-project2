@@ -16,3 +16,11 @@ Project Description: The Youth Soccer (Futbol) League is getting ready to set up
 - As an organizer planning teams, I should be able to view a Height report of a chosen team grouped by height, so that I can determine if teams are fair.
 - As an organizer who is planning teams, I should be able to see a League Balance Report for all teams in the league showing a total count of experienced players vs. inexperienced players, so I can determine from a high level if the teams are fairly balanced regarding previous experience. The report should use a map like solution to properly report experienced vs. inexperienced for each team.
 - As a coach of a team, I should be able to print out a roster of all the players on my team, so that I can plan appropriately.
+
+
+## Extra Credit (TODO)
+- As an organizer, I should be able to select an option that builds fair teams automatically, so that errors can be removed from the manual addition process.
+- As an organizer, I should be able to add a player who missed registration to a waiting list that will ensure that they are added to an available team when it is their turn.
+- As an organizer, I should be able to remove players from the league and replace them with the next player from the waiting list.
+- As an administrator who is planning teams, the Height report should also include a count of how many players of each height are on each team. (Done)
+- As an organizer, I should be able to also see the percentage of experienced players on each team in the League Balance Report. (Done)
